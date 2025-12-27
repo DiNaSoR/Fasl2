@@ -23,7 +23,7 @@ const ObjectInspector: React.FC<ObjectInspectorProps> = ({ layer, onUpdate, onFi
           <Icons.MousePointer />
         </div>
         <p className="text-xs text-gray-500 font-medium uppercase tracking-widest leading-loose">
-          Select an entity to inspect its visual parameters.
+          Selectt an entity to inspect its visual parameters.
         </p>
       </div>
     );
