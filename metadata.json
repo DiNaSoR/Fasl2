@@ -1,0 +1,7 @@
+{
+  "name": "VisionLayer AI - Smart Image Segmenter",
+  "description": "An advanced workflow system that uses Gemini AI to automatically identify, isolate, and convert image objects into interactive, manipulatable layers with background removal capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
